@@ -1,0 +1,14 @@
+% szokoevek
+
+%oszhato 4-el de nem oszthato 100-al
+
+function return_value = szokoevek(ev1, ev2)
+
+%ket paramétere van :-al elválasztva
+%ismert lepesszamu struktura
+for e=ev1:ev2
+    %~ 
+    if mod(e,4) == 0 && mod(e100) ~=0 || 
+end
+
+end
