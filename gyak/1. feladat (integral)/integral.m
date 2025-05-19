@@ -19,14 +19,7 @@ exp(x) → Ez az
 𝑥
  exponenciális függvény.
 
-sin(2*x) → Ez a 
-sin
-⁡
-(
-2
-𝑥
-)
- függvény.
+sin(2*x) → Ez a sin(2𝑥) függvény.
 
 .* → Az elemenkénti szorzás, ami szükséges MATLAB-ban ahhoz, hogy vektorosan is működjön.
 
