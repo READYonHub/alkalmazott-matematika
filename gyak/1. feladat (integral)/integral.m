@@ -44,14 +44,7 @@ Az integral MATLAB beépített függvénye numerikusan kiszámítja a határozot
 3 → A felső határ 3.
 
 f → Az előzőleg definiált 
-𝑒
-𝑥
-sin
-⁡
-(
-2
-𝑥
-)
+𝑒𝑥sin⁡(2𝑥)
  függvényt integrálja.
 
 Ez MATLAB-ban numerikusan közelíti az integrál értékét!
